@@ -1,0 +1,11 @@
+<!ELEMENT reference (title,refbody)>
+<!ATTLIST reference id NMTOKEN #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT refbody (table)>
+<!ELEMENT table (tgroup)>
+<!ELEMENT tgroup (thead,tbody)>
+<!ATTLIST tgroup cols NMTOKEN #REQUIRED>
+<!ELEMENT thead (row)>
+<!ELEMENT row (entry+)>
+<!ELEMENT entry (#PCDATA)>
+<!ELEMENT tbody (row+)>

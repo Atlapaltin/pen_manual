@@ -1,0 +1,10 @@
+<!ELEMENT task (title,shortdesc,taskbody)>
+<!ATTLIST task id NMTOKEN #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT shortdesc (#PCDATA)>
+<!ELEMENT taskbody (steps,result)>
+<!ELEMENT steps (step+)>
+<!ELEMENT step (cmd,info?)>
+<!ELEMENT cmd (#PCDATA)>
+<!ELEMENT info (#PCDATA)>
+<!ELEMENT result (#PCDATA)>

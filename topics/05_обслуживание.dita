@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "dtd/task.dtd">
+<task id="замена_стержня">
+  <title>Замена стержня</title>
+  <shortdesc>Процедура замены израсходованного стержня</shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Открутите задний колпачок</cmd>
+      </step>
+      <step>
+        <cmd>Извлеките пустой стержень</cmd>
+        <info>Аккуратно потяните за кончик стержня</info>
+      </step>
+      <step>
+        <cmd>Вставьте новый стержень того же цвета</cmd>
+        <image href="/images/замена_стержня.jpg"/>
+      </step>
+    </steps>
+    <result>Ручка снова готова к использованию.</result>
+  </taskbody>
+</task>

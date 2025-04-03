@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "dtd/concept.dtd">
+<concept id="комплектация">
+  <title>Комплектация</title>
+  <shortdesc>Что входит в набор</shortdesc>
+  <conbody>
+    <p>В комплект поставки входит:</p>
+    <ul>
+      <li>Ручка с механизмом переключения цветов</li>
+      <li>3 стержня (синий, черный, красный)</li>
+      <li>Гарантийный талон</li>
+      <li>Инструкция по эксплуатации</li>
+    </ul>
+  </conbody>
+</concept>

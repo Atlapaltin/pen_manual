@@ -1,0 +1,8 @@
+<!ELEMENT concept (title,shortdesc,conbody)>
+<!ATTLIST concept id NMTOKEN #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT shortdesc (#PCDATA)>
+<!ELEMENT conbody (p+,image)>
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT image EMPTY>
+<!ATTLIST image href CDATA #REQUIRED>

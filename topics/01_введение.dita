@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "dtd/concept.dtd">
+<concept id="введение">
+  <title>Введение</title>
+  <shortdesc>Основная информация о трехцветной ручке</shortdesc>
+  <conbody>
+    <p>Трехцветная автоматическая ручка позволяет писать тремя разными цветами (синий, черный, красный) с удобным переключением между ними.</p>
+    <p>Рекомендуется ознакомиться с данным руководством перед первым использованием.</p>
+    <image href="/images/цветной_механизм.jpg"/>
+  </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "dtd/reference.dtd">
+<reference id="решение_проблем">
+  <title>Решение проблем</title>
+  <refbody>
+    <dl>
+      <dt>Не переключаются цвета</dt>
+      <dd>Проверьте правильность установки всех стержней</dd>
+      
+      <dt>Чернила не поступают</dt>
+      <dd>Сделайте несколько круговых движений на бумаге</dd>
+      
+      <dt>Течет стержень</dt>
+      <dd>Плотно закрутите задний колпачок</dd>
+    </dl>
+  </refbody>
+</reference>

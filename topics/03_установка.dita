@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "dtd/task.dtd">
+<task id="установка_стержней">
+  <title>Установка стержней</title>
+  <shortdesc>Как правильно установить стержни в ручку</shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Открутите задний колпачок ручки</cmd>
+      </step>
+      <step>
+        <cmd>Вставьте стержни в соответствующие пазы</cmd>
+        <info>Цвета указаны на корпусе ручки</info>
+      </step>
+      <step>
+        <cmd>Проверьте, чтобы все стержни были вставлены до упора</cmd>
+      </step>
+      <step>
+        <cmd>Заверните колпачок обратно</cmd>
+      </step>
+    </steps>
+    <result>Ручка готова к использованию.</result>
+  </taskbody>
+</task>

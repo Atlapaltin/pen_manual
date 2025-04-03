@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "dtd/reference.dtd">
+<reference id="цветовые_коды">
+  <title>Цветовые коды</title>
+  <refbody>
+    <table>
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Цвет</entry>
+            <entry>Код стержня</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row><entry>Синий</entry><entry>BL-2023</entry></row>
+          <row><entry>Черный</entry><entry>BK-2023</entry></row>
+          <row><entry>Красный</entry><entry>RD-2023</entry></row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>

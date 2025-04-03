@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "dtd/map.dtd">
+<map id="руководство_трехцветной_ручки">
+  <title>Руководство пользователя трехцветной ручки</title>
+  
+  <topicref href="topics/01_введение.dita" type="concept"/>
+  <topicref href="topics/02_комплектация.dita" type="concept"/>
+  <topicref href="topics/03_установка.dita" type="task"/>
+  <topicref href="topics/04_письмо.dita" type="task"/>
+  <topicref href="topics/05_обслуживание.dita" type="task"/>
+  <topicref href="topics/06_цвета.dita" type="reference"/>
+  <topicref href="topics/07_неисправности.dita" type="reference"/>
+  <topicref href="topics/08_безопасность.dita"/>
+  <topicref href="topics/09_гарантия.dita"/>
+</map>
